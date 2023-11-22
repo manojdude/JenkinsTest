@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ForjenkinsApplication {
 
 	public static void main(String[] args) {
-		System.out.println("ForjenkinsApplication");
+		System.out.println("ForjenkinsApplication1");
 		SpringApplication.run(ForjenkinsApplication.class, args);
 	}
 
